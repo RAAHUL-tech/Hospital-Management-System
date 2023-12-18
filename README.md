@@ -1,2 +1,2 @@
 # Hospital-Management-System
-It is a Database project that solves all the possible queries in a real-time hospital system.
+It is a Database Management project that solves all the possible queries in a real-time hospital system. All the tables are normalized to avoid redundant data. Several features like bill generation for in-patient and out-patient separately, managing the empty beds in each department, and calculating the daily and weekly statistics of patients are implemented. Some advanced SQL topics like trigger and recursive query are also implemented. The documentation for this project is attached here. 
